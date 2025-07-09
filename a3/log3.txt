@@ -1,0 +1,11 @@
+[2025-07-09 10:02:49] Server started on 127.0.0.1:5003
+[2025-07-09 10:02:49] Accepted connection from ('127.0.0.1', 53421)
+[2025-07-09 10:02:49] Received: uuid=0037cfc9-4ed9-4b62-9ff3-658ce09cc257, flag=0, less, 0
+[2025-07-09 10:02:49] Ignored message (smaller UUID): uuid=0037cfc9-4ed9-4b62-9ff3-658ce09cc257
+[2025-07-09 10:02:51] Connected to client at 127.0.0.1:5001
+[2025-07-09 10:02:51] Sent: uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=0
+[2025-07-09 10:02:51] Received: uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=0, same, 0
+[2025-07-09 10:02:51] Leader is decided to 5d14330a-0e4c-44ec-b700-6c6ee0af5b4e
+[2025-07-09 10:02:51] Sent: uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=1
+[2025-07-09 10:02:51] Ignored message (leader already elected): uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=1
+[2025-07-09 10:02:52] Terminating: leader is 5d14330a-0e4c-44ec-b700-6c6ee0af5b4e

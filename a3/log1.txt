@@ -1,0 +1,11 @@
+[2025-07-09 10:02:22] Server started on 127.0.0.1:5001
+[2025-07-09 10:02:26] Connection attempt 1 failed, retrying...
+[2025-07-09 10:02:30] Connection attempt 2 failed, retrying...
+[2025-07-09 10:02:32] Connected to client at 127.0.0.1:5002
+[2025-07-09 10:02:32] Sent: uuid=386d2458-04d6-43bb-9852-74300896776f, flag=0
+[2025-07-09 10:02:51] Accepted connection from ('127.0.0.1', 53424)
+[2025-07-09 10:02:51] Received: uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=0, greater, 0
+[2025-07-09 10:02:51] Sent: uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=0
+[2025-07-09 10:02:51] Received leader election: uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=1, leader is 5d14330a-0e4c-44ec-b700-6c6ee0af5b4e
+[2025-07-09 10:02:51] Sent: uuid=5d14330a-0e4c-44ec-b700-6c6ee0af5b4e, flag=1
+[2025-07-09 10:02:52] Terminating: leader is 5d14330a-0e4c-44ec-b700-6c6ee0af5b4e
